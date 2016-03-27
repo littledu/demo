@@ -1,0 +1,13 @@
+{
+  "name": "async",
+  "version": "0.1.1",
+  "private": true,
+  "dependencies": {
+    "moment": "*",
+    "async": "*"
+  },
+  "devDependencies": {
+    "async": "^0.9.0",
+    "moment": "^2.10.2"
+  }
+}
