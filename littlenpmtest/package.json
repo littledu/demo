@@ -1,0 +1,7 @@
+{
+  "name": "littlenpmtest",
+  "version": "0.0.1",
+  "bin": {
+    "cli": "bin/cli.js"
+  }
+}
